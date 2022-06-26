@@ -1,6 +1,6 @@
 espipe:
   elasticsearch:
-    host: localhost
+    host: elastic:srB8DwTsLC0JUd4hc*mD@localhost
     port: 9200
     protocol: http
     # fields_mode: flatten, custom_in_one[default], all_in_one[not support yet]
